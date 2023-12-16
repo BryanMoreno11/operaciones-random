@@ -1,1 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-image: url('https://images3.alphacoders.com/919/919829.png');
+    background-size: cover;
+}
+
+@media screen and (max-width:720px) {
+    body {
+        background-image: url('https://w0.peakpx.com/wallpaper/25/908/HD-wallpaper-eren-jaeger-aot-attack-on-titan-eren-yeager-shingeki-no-kyojin.jpg');
+        background-size: cover;
+    }
+}
