@@ -12,7 +12,7 @@ export class RandomComponent implements OnInit {
   respuesta:any="";
   contador=0;
   num_ejercicios:number=5;
-  codigo:string="";
+  codigo:string="4StApxSedpl2kQb";
   msgAlert=(title:string,icon:any,text?:string)=>{
     Swal.fire({
       title,
